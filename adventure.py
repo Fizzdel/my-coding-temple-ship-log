@@ -1,5 +1,5 @@
-def greet coding temple():
-print("here we go")
+def greet_coding_temple():
+    print("ahoy, coding temple navigator are you ready?")
 
-if __name__=="__main__":
+    if__name__=="__main__":
     greet_coding_temple()
